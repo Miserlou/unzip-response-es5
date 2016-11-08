@@ -1,4 +1,4 @@
-# unzip-response [![Build Status](https://travis-ci.org/sindresorhus/unzip-response.svg?branch=master)](https://travis-ci.org/sindresorhus/unzip-response)
+# unzip-response-es5 [![Build Status](https://travis-ci.org/Miserlou/unzip-response-es5.svg?branch=master)](https://travis-ci.org/sindresorhus/unzip-response)
 
 > Unzip a HTTP response if needed
 
